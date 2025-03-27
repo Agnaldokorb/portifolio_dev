@@ -1,3 +1,3 @@
 export * from './tecnologia';
 export * from './shared';
-export * from './Projeto';
+export * from './projeto';

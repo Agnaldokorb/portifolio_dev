@@ -6,5 +6,5 @@ export default class Id {
         return `${p1}-${p2}-${p3}`
     }
 }
-console.log(Id.gerar())
+
 
