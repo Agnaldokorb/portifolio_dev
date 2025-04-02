@@ -13,4 +13,16 @@ export default class Projeto {
     repositorio: string
     destaque: boolean
     tecnilogias: Tecnologia[]  
+
+    constructor() {
+        this.id = 0 // Valor inicial padrão
+        this.nome = ""
+        this.descricao = ""
+        this.imagens = []
+        this.tipo = Tipo.WEB
+        this.nivel = Nivel.AVANCADO
+        this.repositorio = ""
+        this.destaque = false
+        this.tecnilogias = []
+    }   
 }
