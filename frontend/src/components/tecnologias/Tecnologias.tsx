@@ -1,5 +1,5 @@
 import { Tecnologia } from "@core";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 export interface TecnologiasProps {
     lista: Tecnologia[]
