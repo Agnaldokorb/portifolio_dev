@@ -1,8 +1,8 @@
-POST https://novocode.app.n8n.cloud/webhook/assistente-pessoal
+POST http://novocode.site:5678/webhook/assistente-pessoal
 Content-Type: application/json
 
 {
-    "chatId": "1234567",
-    "mensagem": "Você trabalha com desenvolvimento de software web"
+    "chatId": "12345",
+    "mensagem": "bom dia"
 
 }
