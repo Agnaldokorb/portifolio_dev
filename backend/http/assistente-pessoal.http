@@ -1,4 +1,4 @@
-POST http://novocode.site:5678/webhook/assistente-pessoal
+POST http://novocode.site:5678/webhook/LWYJIcdRyEfFJ6TH
 Content-Type: application/json
 
 {
