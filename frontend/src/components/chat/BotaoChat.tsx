@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Popover, PopoverContent, PopoverTrigger } from "../ui/popover";
 import JanelaChat from "./JanelaChat";
 
+
 export default function BotaoChat() {
     return (
         <Popover>
