@@ -14,13 +14,13 @@ export default function Menu() {
             <MenuItem href="/projeto/1" selecionado={caminho.startsWith ("/projeto")}>
                 Projetos
             </MenuItem>
-            <MenuItem 
+            {/*<MenuItem 
                 href="https://api.whatsapp.com/send/?phone=5547999253962&text&tipe=phone_number"
                 selecionado={false}
                 novaAba={true}
             >
                 Contato
-            </MenuItem>
+            </MenuItem>*/}
         </nav>
     )
 }
