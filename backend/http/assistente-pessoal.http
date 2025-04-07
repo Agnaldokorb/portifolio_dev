@@ -1,8 +1,8 @@
-POST http://novocode.site:5678/webhook/LWYJIcdRyEfFJ6TH
+POST https://n8n.srv773765.hstgr.cloud/webhook/94b08fec-66f5-493e-9742-d00142604c50
 Content-Type: application/json
 
 {
-    "chatId": "12345",
+    "chatId": "1234567",
     "mensagem": "bom dia"
 
 }
