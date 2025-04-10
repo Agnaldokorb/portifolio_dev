@@ -1,4 +1,4 @@
-POST https://n8n.srv773765.hstgr.cloud/webhook/94b08fec-66f5-493e-9742-d00142604c50
+POST https://primary-production-71fdc.up.railway.app/webhook/115c87c3-54c2-487f-a1e6-c9f035f293cb
 Content-Type: application/json
 
 {
