@@ -1,8 +1,8 @@
-POST https://primary-production-71fdc.up.railway.app/webhook/115c87c3-54c2-487f-a1e6-c9f035f293cb
+POST https://primary-production-71fdc.up.railway.app/webhook/0d40c26b-1b63-4e07-97c0-b2469350e51d
 Content-Type: application/json
 
 {
     "chatId": "1234567",
-    "mensagem": "bom dia"
+    "mensagem": "projetos"
 
 }
