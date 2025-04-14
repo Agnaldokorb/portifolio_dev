@@ -2,7 +2,6 @@ POST https://primary-production-71fdc.up.railway.app/webhook/115c87c3-54c2-487f-
 Content-Type: application/json
 
 {
-    "chatId": "1234567",
-    "mensagem": "projetos"
-
+  "chatId": "12345678",
+  "mensagem": "oi"
 }

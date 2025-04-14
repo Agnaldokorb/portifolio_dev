@@ -19,7 +19,7 @@ function BalaoEsquerdo(props: BalaoMensagemProps) {
 	return (
 		<div className="flex gap-4">
 			{!props.omitirAutor && (
-				<Image src="/robo.svg" alt="Assistente" width={40} height={40} />
+				<Image src="/chat.svg" alt="Assistente" width={40} height={40} />
 			)}
 			<div className={`flex flex-col ${props.omitirAutor && "pl-16"}`}>
 				{!props.omitirAutor && (
